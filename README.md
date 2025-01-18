@@ -1,3 +1,5 @@
+![Finance Logger](frontend/src/assets/Finance%20Logger.png)
+
 # Finance Logger
 
 A full-stack finance logging application built with React + Vite + TypeScript for the frontend and Express for the backend. The application uses cookie storage to track the last entry date and provides a RESTful API for managing finance entries.
